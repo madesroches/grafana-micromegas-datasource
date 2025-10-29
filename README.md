@@ -1,4 +1,8 @@
-:warning: Recently forked from Influx's FlightSQL grafana plugin. The intent is to make a grafana datasource plugin for [Micromegas](https://github.com/madesroches/micromegas) while keeping the protocol compatible with FlightSQL.
+:warning: **ARCHIVED** - This repository has been merged into the main [Micromegas](https://github.com/madesroches/micromegas) project and is no longer maintained as a standalone repository.
+
+---
+
+:information_source: Originally forked from Influx's FlightSQL grafana plugin. The intent was to make a grafana datasource plugin for [Micromegas](https://github.com/madesroches/micromegas) while keeping the protocol compatible with FlightSQL.
 
 # Grafana Micromegas Datasource
 
